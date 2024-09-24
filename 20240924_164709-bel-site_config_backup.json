@@ -1,0 +1,8 @@
+{
+ "db_name": "_9449f4d1b20cc7d6",
+ "db_password": "5il3EyP89YrrcSuv",
+ "db_type": "mariadb",
+ "user_type_doctype_limit": {
+  "employee_self_service": 40
+ }
+}
